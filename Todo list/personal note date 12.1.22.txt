@@ -1,0 +1,23 @@
+*npm is package manager(like pip in python)
+*npx to run one time
+
+---------------
+npm create-react-app my-app
+cd my-app
+npm start
+---------------
+
+*use react bootstrap for react applications
+*put '/' at the end of the tag which do not close like...
+-<input />
+*reclace all class with className
+*use rfc(react functional component) template
+*use rafc(react arrow functional component) template
+*arrow function in js
+*method in js
+
+
+*https://www.youtube.com/watch?v=RGKi6LSPDLU
+(continue watching from 1:24:28)
+
+

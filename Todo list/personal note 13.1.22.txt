@@ -1,0 +1,5 @@
+*replace all class with className
+*replace all for with htmlFor
+
+*npm create-react-app my-app  //to create a react app
+*npm install react-router dom //to create react router service

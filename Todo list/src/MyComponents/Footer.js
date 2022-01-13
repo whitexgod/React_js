@@ -1,14 +1,9 @@
 import React from 'react'
-//import './Footer.css'
 
-export const Footer = () => {
-    let footerstyle = {
-        position: "absolute",
-        top: "95vh",
-        width: "100%"
-    }
+
+export const Footer = () => { 
     return (
-        <footer className="bg-dark text-light py-3" style={footerstyle}>
+        <footer className="bg-dark text-light py-3">
             <p className="text-center">
             Copyright &copy; MyTodosList.com
             </p>
