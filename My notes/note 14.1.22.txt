@@ -11,3 +11,11 @@
 -x.name1
 -x.name2 and so on.
 *building keeper app part 1
+*react props usability
+*maping components in react
+*map function demands an unique key
+*.map
+*.filter
+*Js arrowfunction
+*single responsibility principle
+*ternary operator
