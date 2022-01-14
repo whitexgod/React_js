@@ -1,0 +1,4 @@
+*use of JSX
+*HTML global attributes
+*let const
+*jsx object

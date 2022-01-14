@@ -1,0 +1,13 @@
+*creating function in JSX
+*export default xyz 
+*rearrangement of components
+*import xyz from "./location"
+*export {xyz1,xyz2}
+*in a single file we can have only single default export
+*import * as x from "./location"
+-importing all 
+-how to use?
+-x.dafault
+-x.name1
+-x.name2 and so on.
+*building keeper app part 1
