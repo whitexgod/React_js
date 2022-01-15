@@ -11,4 +11,5 @@
 *prevValue
 *event.target.value
 *spread syntax in js6 ...
-*
+*meterial-ui/core
+*meterial-ui/icon
