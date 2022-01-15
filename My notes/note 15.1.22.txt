@@ -1,0 +1,14 @@
+*state in react
+*UI = f(State)
+*Hooks
+*useState hook practice
+*destructing arrays and objects
+-const [a,b] = ____ //in case of arrays
+-const {a,b} = a // in case of objects
+*using event listeners
+*controlled components
+*event.preventDefault
+*prevValue
+*event.target.value
+*spread syntax in js6 ...
+*
