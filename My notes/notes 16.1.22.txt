@@ -1,0 +1,10 @@
+*routing
+-npm install react-router-dom
+*documentation 
+-https://reactrouterdotcom.fly.dev/docs/en/v6/getting-started/installation
+*BrowserRouter from 'react-router-dom'
+*Routes from 'react-router-dom'
+*Route from 'react-router-dom'
+*https://www.youtube.com/watch?v=Law7wfdg_ls(youtube reference link)
+*useEffect
+*Api calling in react
