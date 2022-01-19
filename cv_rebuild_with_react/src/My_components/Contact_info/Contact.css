@@ -1,0 +1,11 @@
+.Contact-Page
+{
+    padding: 0px;
+    margin: 0px;
+}
+  
+.container {
+    width: 100%;
+    height: fit-content;
+    padding-top: 150px;
+}

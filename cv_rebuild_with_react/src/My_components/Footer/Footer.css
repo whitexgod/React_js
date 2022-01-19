@@ -1,0 +1,19 @@
+.Foot{
+  float: bottom;
+}
+.Foot-h4{
+      color: white;
+      font-size: 15px;
+      padding: 10px;
+      text-align: center;
+      bottom: 0;
+      width: 100%;
+      float: bottom;
+      opacity: .5;
+  }
+
+@media all and (max-width: 900px){
+  .Foot-h4{
+    font-size: 10px;;
+  }
+}
