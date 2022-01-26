@@ -15,7 +15,7 @@ function SendMessage() {
       text: msg,
       photoURL,
       uid,
-      crteatedAt: serverTimestamp(),
+      TimeStamp: serverTimestamp(),
     });
     setMsg("");
   }

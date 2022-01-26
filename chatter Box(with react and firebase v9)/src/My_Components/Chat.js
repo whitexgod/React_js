@@ -4,7 +4,6 @@ import { useState, useEffect } from "react";
 import { db } from "../firebase";
 import {
   collection,
-  getDocs,
   onSnapshot,
   limit,
   query,
@@ -15,14 +14,8 @@ import SendMessage from "./SendMessage";
 export const Chat = () => {
   const [messages, setMessages] = useState([]);
 
-  /**useEffect( async ()  => {
-        const notesSnapshot = await getDocs(collection(db, "messages"));
-        const notesList = notesSnapshot.docs.map((doc) => doc.data());
-        console.log(notesList);
-  }, []);*/
-
   useEffect(() => {
-    const q = query(collection(db, "messages"), orderBy('createdAt'), limit(40));
+    const q = query(collection(db, "messages"), orderBy('TimeStamp'), limit(40));
 
     const useME = onSnapshot(q, (snapshot) => {
       setMessages(snapshot.docs.map((doc) => doc.data()));

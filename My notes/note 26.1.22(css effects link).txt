@@ -1,0 +1,9 @@
+some good borders 
+- https://getcssscan.com/css-box-shadow-examples
+
+some good hover effects
+- https://alvarotrigo.com/blog/best-css-button-hover-effects/
+
+some good text effects
+- https://alvarotrigo.com/blog/css-text-animations/
+
